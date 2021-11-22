@@ -15,7 +15,7 @@ yarn serve
 yarn build
 ```
 
-### routers
+### routes
 
 ```
 /          home page(need auth)
