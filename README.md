@@ -1,4 +1,4 @@
-# demo-app
+# aws-cognito-vue-demo
 
 ## Project setup
 ```
@@ -15,10 +15,11 @@ yarn serve
 yarn build
 ```
 
-### Lints and fixes files
-```
-yarn lint
-```
+### routers
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+/          home page(need auth)
+/login     login page
+/register  register page
+/confirm   verify page
+```

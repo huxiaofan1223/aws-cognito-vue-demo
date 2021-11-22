@@ -8,14 +8,11 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@aws-amplify/ui-components": "^1.9.6",
-    "amazon-cognito-identity-js": "^5.2.3",
     "aws-amplify": "^4.3.8",
     "core-js": "^3.6.5",
     "element-ui": "^2.15.6",
     "node-sass": "^4.14.1",
     "sass-loader": "^10.1.1",
-    "serverless-mysql": "^1.5.4",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
